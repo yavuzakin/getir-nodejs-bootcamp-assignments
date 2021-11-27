@@ -4,4 +4,4 @@
 * Log all the requests coming from the client to a file using FS module.
 * Redirect requests with 404 warning for undefined urls.
 
-#### Click <a href="https://github.com/yavuzakin/getir-nodejs-bootcamp-assignments/tree/main">here</a> to go back main branch.
+#### Click <a href="https://github.com/yavuzakin/getir-nodejs-bootcamp-assignments/tree/main">here</a> to go back to main branch.
