@@ -5,3 +5,12 @@
 * Redirect requests with 404 warning for undefined urls.
 
 #### Click <a href="https://github.com/yavuzakin/getir-nodejs-bootcamp-assignments/tree/main">here</a> to go back to main branch.
+
+# Description
+All the requirements stated above are met. Log messages are saved into log.txt file asynchronously so that not to block event loop in the case of multiple requests made simultaneously to the server.
+Working urls: 
+* /
+* /home
+* /about-us
+* /products
+All the other requests are responded by 404. 
